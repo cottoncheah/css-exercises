@@ -1,13 +1,13 @@
-.firstclickme{
+.firstclickme {
     background-color: black;
     color: white;
 }
 
-.secondclickme{
+.secondclickme {
     background-color: yellow;
 }
 
-#clickme{
+.firstclickme, .secondclickme {
     font-size: 28px;
     font-family: Helvetica, 'Times New Roman', sans-serif;
 }
